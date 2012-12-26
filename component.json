@@ -1,7 +1,7 @@
 {
     "name": "tea-objlock"
   , "repo": "qualiancy/tea-objlock"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Quickly lock and restore an object's keys."
   , "license": "MIT"
   , "keywords": [

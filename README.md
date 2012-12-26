@@ -1,4 +1,4 @@
-# tea-objlock
+# tea-objlock [![Build Status](https://secure.travis-ci.org/qualiancy/tea-objlock.png?branch=master)](https://travis-ci.org/qualiancy/tea-objlock)
 
 > Quickly lock and restore an object's keys.
 

@@ -1,6 +1,6 @@
 {
     "name": "tea-objlock"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Quickly lock and restore an object's keys."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"
